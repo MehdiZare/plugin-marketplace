@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img" aria-label="Bina favicon">
+  <defs><clipPath id="binaFavOverlap"><circle cx="40" cy="50" r="17"></circle></clipPath></defs>
+  <rect width="100" height="100" rx="20" fill="#fff6e5"></rect>
+  <circle cx="40" cy="50" r="17" fill="#2247ff"></circle>
+  <circle cx="60" cy="50" r="17" fill="#ff4d2e"></circle>
+  <circle cx="60" cy="50" r="17" fill="#0a0f22" clip-path="url(#binaFavOverlap)"></circle>
+  <circle cx="50" cy="50" r="4" fill="#ffd800"></circle>
+</svg>

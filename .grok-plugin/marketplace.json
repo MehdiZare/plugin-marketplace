@@ -369,6 +369,17 @@
       "homepage": "https://enrichlabs.ai",
       "keywords": ["helena", "enrich labs", "helena ai marketer", "helena marketing ai agent", "helena autonomous marketer", "helena marketing"],
       "domains": ["enrichlabs.ai", "agent.enrichlabs.ai"]
+    },
+    {
+      "name": "bina-options",
+      "description": "Bina Capital options analytics: implied-volatility context, expected moves, option-strategy ideas, and short-premium structures ranked by the models' expected return. Read-only, model-based education. Sign in with a Bina account.",
+      "source": {
+        "type": "local",
+        "path": "./external_plugins/bina-options"
+      },
+      "homepage": "https://bina.capital",
+      "keywords": ["bina", "bina capital", "bina options", "bina mcp"],
+      "domains": ["bina.capital"]
     }
   ]
 }

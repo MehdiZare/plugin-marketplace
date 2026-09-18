@@ -1,0 +1,13 @@
+{
+  "name": "bina-options",
+  "version": "0.1.0",
+  "description": "Bina Capital options analytics via the hosted MCP at mcp.bina.capital: implied-volatility context, expected moves, option-strategy ideas, and short-premium structures ranked by the models' expected return. Read-only, model-based education. Sign in with a Bina account on first connect.",
+  "author": {
+    "name": "Bina Capital",
+    "url": "https://bina.capital"
+  },
+  "homepage": "https://bina.capital",
+  "license": "Proprietary",
+  "keywords": ["bina", "bina capital", "bina options", "bina mcp"],
+  "logo": "assets/logo.svg"
+}

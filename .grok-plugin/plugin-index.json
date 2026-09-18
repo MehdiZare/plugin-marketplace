@@ -71,6 +71,23 @@
         ]
       }
     },
+    "bina-options": {
+      "version": "0.1.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "bina-options",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "bina-options",
+            "description": "Use when the user asks Bina Capital about options on a U.S. stock or ETF. That covers what to sell for premium today, w…"
+          }
+        ]
+      }
+    },
     "browser-use": {
       "sha": "4749bcbfe456e5384b98281a8a66119352197f59",
       "version": "0.1.0",
